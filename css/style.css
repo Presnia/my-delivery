@@ -482,6 +482,10 @@ body {
   .section-title {
     font-size: 26px;
   }
+
+  .footer-logo-tanuki {
+    margin-bottom: 20px;
+  }
 }
 
 @media (max-width: 420px) {
@@ -500,4 +504,5 @@ body {
   .promo-title {
     font-size: 22px;
   }
+
 }
